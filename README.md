@@ -1,20 +1,20 @@
-Terraform v0.12.18
-Usage :
-  Terraform init
-  Terraform plan
-  Terraform apply
+Terraform v0.12.18 <br>
+Usage :<br>
+  Terraform init<br>
+  Terraform plan<br>
+  Terraform apply<br>
 
-Functionality:
-  Creates VPC
-  Creates 2 Public Subnet
-  Creates 2 Private Subnet
-  Creates IGW
-  Creates Public Route Table
-  Subnet Association and Route Table Configuration
-  Launches Instances in Private Subnets
-  Creates Target Group
-  Creates ASG with 2 Min Instances in Public Subnets
-  Attach ASG to Target Group
-  Creates ALB depended upon Target Group
+Functionality:<br>
+  Creates VPC<br>
+  Creates 2 Public Subnet<br>
+  Creates 2 Private Subnet<br>
+  Creates IGW<br>
+  Creates Public Route Table<br>
+  Subnet Association and Route Table Configuration<br>
+  Launches Instances in Private Subnets<br>
+  Creates Target Group<br>
+  Creates ASG with 2 Min Instances in Public Subnets<br>
+  Attach ASG to Target Group<br>
+  Creates ALB depended upon Target Group<br>
   ...
   
