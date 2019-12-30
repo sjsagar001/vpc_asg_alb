@@ -1,5 +1,6 @@
 Terraform v0.12.18 <br>
 Usage :<br>
+  Generate SSH keys using "ssh-keygen -f mykey"
   Terraform init<br>
   Terraform plan<br>
   Terraform apply<br>
